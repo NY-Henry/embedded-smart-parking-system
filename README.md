@@ -1,5 +1,7 @@
 # Smart Parking Slot Availability and Warning System
 
+## TinkerCad Link [Click Here](https://www.tinkercad.com/things/iufZkYufqSO-smart-parking-slot-availability-and-warning-system-?sharecode=yOjtt63CkJhY_1NcByoVc0CH76fmTBFIAXgHPJd2fAg)
+
 ## 📌 Project Overview
 
 This project is a real-time embedded system designed to solve parking inefficiency by automating the detection of vehicle presence in a parking slot. Built using an Arduino Uno and an Ultrasonic Distance Sensor, the system continuously monitors a parking space and provides real-time visual feedback to drivers.
